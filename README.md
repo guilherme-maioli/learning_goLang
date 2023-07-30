@@ -1,10 +1,6 @@
-# Guilherme Maioli
+# Aprendendo a linguagem GoLang 
 
-* Repositório iniciado 30-07-2023 *
-
-** Aprendendo a linguagegm GoLang **
-
-
+* Repositório iniciado 30-07-2023
 
 
 ## Capítulo 01
