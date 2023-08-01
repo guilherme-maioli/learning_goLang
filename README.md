@@ -74,13 +74,18 @@
 
 ## Capítulo 06 - Funções
 ```
+├───ex01: Função SUM, recebendo int e retornando int.
+├───ex02: Função MEAN e PAR/IMPAR. Recebe int, retorna a metade dele e se é par ou impar.
+├───ex03: Função com parametros variáticos retornando o maior valor recebido.
+├───ex04: Função makeEvenGenerator, gerando valor impares apartir de 1.
+├───ex05: Função Recursiva com sequencia de Fibonacci.
 ├───example 01: Código de exemplo
 ├───example 02: Declarando função com retorno.
 ├───example 03: Declarando função com retorno na chamada. (Return vazio)
-├───example 04: Função com múltiplos argumentos. (UNZIP)
+├───example 04: Função Variática com múltiplos argumentos. 
 ├───example 05: Variável de função.
 ├───example 06: Variável de função alterando um valor.
-├───example 07: Retornando função dentro de função.
+├───example 07: makeEvenGenerator => Retornando função dentro de função.
 ├───example 08: Função recursiva
 ├───example 09: Função "defer", acontece depois de tudo.
 ├───example 10: Entendendo PANIC, e possíveis capturas de erros.
