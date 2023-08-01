@@ -1,6 +1,7 @@
 # Aprendendo a linguagem GoLang 
 
 * Repositório iniciado 30-07-2023
+* Aprendendo através das lives do [TeoMeWhy] (twitch.tv/teomewhy)
 
 
 ## Capítulo 01
