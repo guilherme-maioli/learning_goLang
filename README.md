@@ -79,6 +79,12 @@
 ├───ex03: Função com parametros variáticos retornando o maior valor recebido.
 ├───ex04: Função makeEvenGenerator, gerando valor impares apartir de 1.
 ├───ex05: Função Recursiva com sequencia de Fibonacci.
+├───ex06: Teoria do que é defer, panic e recover.
+├───ex07: Teoria de como podemos obter um endereço de memória de uma variável.
+├───ex08: Como atribuir um valor a uma ponteiro.
+├───ex09: Como criar um novo ponteiro.
+├───ex10: Função manipulando ponteiros e passando endereço de memória por parâmetro.
+├───ex11: Escreva um programa alterando valor de váriavel por ponteiro.
 ├───example 01: Código de exemplo
 ├───example 02: Declarando função com retorno.
 ├───example 03: Declarando função com retorno na chamada. (Return vazio)
