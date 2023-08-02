@@ -4,7 +4,7 @@
 * Aprendendo através das lives do [TeoMeWhy](https://twitch.tv/teomewhy)
 
 
-## Capítulo 01
+## [Capítulo 1](./cap01/)
 ```
 ├───exe01
 ├───exe02
@@ -13,7 +13,7 @@
 └───exe05
 ```
 
-## Capítulo 02
+## [Capítulo 2](./cap02/)
 ```
 ├───example01
 ├───example02
@@ -25,7 +25,7 @@
 └───exe03
 ```
 
-## Capítulo 03
+## [Capítulo 3](./cap03/)
 ```
 ├───ex01
 ├───ex02
@@ -41,7 +41,7 @@
 └───example06
 ```
 
-## Capítulo 04
+## [Capítulo 4](./cap04/)
 ```
 ├───ex01
 ├───ex02
@@ -53,7 +53,7 @@
 └───example 05
 ```
 
-## Capítulo 05
+## [Capítulo 5](./cap05/)
 ```
 ├───ex01
 ├───ex02
@@ -73,7 +73,7 @@
 └───example 12
 ```
 
-## Capítulo 06 - Funções
+## [Capítulo 06 - Funções](./cap06/)
 ```
 ├───ex01: Função SUM, recebendo int e retornando int.
 ├───ex02: Função MEAN e PAR/IMPAR. Recebe int, retorna a metade dele e se é par ou impar.
