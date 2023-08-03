@@ -113,3 +113,22 @@
 ├───example 05: Somando área de várias structs Circulos
 └───example 06: Somando área de várias structs diferentes (Círculo e Retangulo) com Interface
 ```
+
+## [Capítulo 08 - Pacotes ](./cap08/)
+```
+├───example 1: Função contém do pacote Strings.
+├───example 2: Função contar do pacote Strings.
+├───example 3: Função sufixo e prefixo do pacote Strings.
+├───example 4: Função index do pacote Strings.
+├───example 5: Função join do pacote Strings.
+├───example 6: Função repeat do pacote Strings.
+├───example 7: Função replace do pacote Strings.
+├───example 8: Função split do pacote Strings.
+├───example 9: Função upper e lower do pacote Strings.
+├───example 10: Abrindo e lendo arquivo txt.
+├───example 11: Escrevendo em um arquivo.
+├───example 12: Listando arquivos de um diretório.
+└───example 13: Navegando no diretório.
+
+```
+
