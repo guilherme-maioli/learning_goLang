@@ -2,7 +2,7 @@
 
 * Repositório iniciado 30-07-2023
 * Aprendendo através das lives do [TeoMeWhy](https://twitch.tv/teomewhy)
-
+* Livro utilizando como base: Introdução à Linguagem Go: Crie Programas Escaláveis e Confiáveis
 
 ## [Capítulo 1](./cap01/)
 ```
@@ -103,6 +103,9 @@
 
 ## [Capítulo 07 ](./cap07/)
 ```
+├───ex01: Teórico: Diferença entre método e função.
+├───ex02: Teórico: Por que usar campo anonimo incluido ao inves de utilizar campo nomeado.
+├───ex03: Prático: Cálculo da área e perimetro de um Círculo e um Retangulo usando interfaces.
 ├───example 01: Cálculo de área de retangulo e circunferência. 
 ├───example 02: Manipulando structs de Círculo.
 ├───example 03: Criando métodos de struct.
