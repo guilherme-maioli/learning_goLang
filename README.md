@@ -116,19 +116,27 @@
 
 ## [Capítulo 08 - Pacotes ](./cap08/)
 ```
-├───example 1: Função contém do pacote Strings.
-├───example 2: Função contar do pacote Strings.
-├───example 3: Função sufixo e prefixo do pacote Strings.
-├───example 4: Função index do pacote Strings.
-├───example 5: Função join do pacote Strings.
-├───example 6: Função repeat do pacote Strings.
-├───example 7: Função replace do pacote Strings.
-├───example 8: Função split do pacote Strings.
-├───example 9: Função upper e lower do pacote Strings.
-├───example 10: Abrindo e lendo arquivo txt.
-├───example 11: Escrevendo em um arquivo.
-├───example 12: Listando arquivos de um diretório.
-└───example 13: Navegando no diretório.
+├───example1: Função contém do pacote Strings.
+├───example2: Função contar do pacote Strings.
+├───example3: Função sufixo e prefixo do pacote Strings.
+├───example4: Função index do pacote Strings.
+├───example5: Função join do pacote Strings.
+├───example6: Função repeat do pacote Strings.
+├───example7: Função replace do pacote Strings.
+├───example8: Função split do pacote Strings.
+├───example9: Função upper e lower do pacote Strings.
+├───example10: Abrindo e lendo arquivo txt.
+├───example11: Escrevendo em um arquivo.
+├───example12: Listando arquivos de um diretório.
+├───example13: Navegando no diretório.
+├───example14: Tratando erros.
+├───example15: Lista encadeadas.
+├───example16: Lista encadeadas, ordenando nomes (string).
+├───example17: Lista encadeadas, ordenando idades (int).
+├───example18: Hashs
+├───example19: Comparando Hashs de arquivos iguais e diferentes
+├───example20: Criptografia de hash.
+├───example21: Trocando mensagem por TCP.
+└───example22: Servidor HTTP.
 
 ```
-
