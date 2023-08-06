@@ -147,3 +147,11 @@
 ├───ex04: Criando pacote math com funções average, min, max.
 └───ex05: Teoria: como documentária as funções criadas no exericico 4.
 ```
+
+
+## [Capítulo 09 - Testes ](./cap09/)
+```
+├───ex01: Escrevendo testes pra função Average do pacote math criado para um exemplo vazio.
+├───ex02: Escrevendo testes pra função Min e Max do pacote math criado.
+└───example01: Escrevendo testes para a função Average criado no final do capítulo anterior.
+```
