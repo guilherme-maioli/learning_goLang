@@ -136,7 +136,14 @@
 ├───example18: Hashs
 ├───example19: Comparando Hashs de arquivos iguais e diferentes
 ├───example20: Criptografia de hash.
-├───example21: Trocando mensagem por TCP.
-└───example22: Servidor HTTP.
-
+├───example21: Trocando mensagem por TCP. main.go (tudo em um arquivo) e client.go, server.go dividindo arquivos.
+├───example22: Servidor HTTP.
+├───example23: Exemplo de RPC (remote procedure call). Chamando um função através do servidor.
+├───example24: Pegando argumentos da linha de comando `go run main.go --max 200`.
+├───example25: Trabalhando com pacotes no go.
+├───ex01: Teoria: por que usamos pacote?
+├───ex02: Teoria: Diferença de um identificador que começa com letra maiuscula e com letra minuscula.
+├───ex03: Teoria: O que é um apelido (alias)?
+├───ex04: Criando pacote math com funções average, min, max.
+└───ex05: Teoria: como documentária as funções criadas no exericico 4.
 ```
