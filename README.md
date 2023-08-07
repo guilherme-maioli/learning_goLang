@@ -155,3 +155,17 @@
 ├───ex02: Escrevendo testes pra função Min e Max do pacote math criado.
 └───example01: Escrevendo testes para a função Average criado no final do capítulo anterior.
 ```
+
+## [Capítulo 10 - Concorrência ](./cap010/)
+```
+├───example1: Concorrência dentro da main
+├───example2: Chamando de forma concorrente a mesma função várias vezes
+├───example3: Demonstração com time.Sleep()
+├───example4: Troca de informações entre Goroutines com canais
+├───example5: Mais de uma Goroutine enviando dados para o mesmo canal
+├───example6: Direção dos canais no momento de definição da função
+├───example7: Select para receber informações de canais que tem dados disponíveis
+├───example8: Timeout no Select quando não há dados disponíveis em nenhum canal
+├───example9: Valor default em Select
+└───example10: Buffer de canal
+```
