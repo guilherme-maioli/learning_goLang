@@ -174,3 +174,10 @@
 └───ex03: Criando um canal buffer de capacidade 20.
 
 ```
+
+## [Extra - Exercícios Padrões ](./extra/)
+```
+├───figurinhas.go: Album de figurinhas. Quantos pacotes é necessário compra para completar o album? 
+├───fizzbuzz.go: Print FIZZ para números divisíveis por 3 e BUZZ para divisíveis por 5. FIZZBUZZ para divisiveis por 3 e 5.
+└───primo.go: Receba um número inteiro e diga se ele é primo ou não.
+```
