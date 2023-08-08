@@ -167,5 +167,10 @@
 ├───example7: Select para receber informações de canais que tem dados disponíveis
 ├───example8: Timeout no Select quando não há dados disponíveis em nenhum canal
 ├───example9: Valor default em Select
-└───example10: Buffer de canal
+├───example10: Buffer de canal
+├───example11: Fazendo um webscraping para saber qual páginas tem mais caracteres.
+├───ex01: Como especificar a direção do tipo de canal.
+├───ex02: Implementar a função sleep.
+└───ex03: Criando um canal buffer de capacidade 20.
+
 ```
