@@ -30,5 +30,18 @@ func main() {
 		fmt.Println("Soma: ", sts.SomaFloat64(data))
 	case "avg":
 		fmt.Println("Média: ", sts.AvgFloat64(data))
+	case "min":
+		fmt.Println("Min: ", sts.MinFloat64(data))
+	case "max":
+		fmt.Println("Max: ", sts.MaxFloat64(data))
+	case "median":
+		fmt.Println("Mediana: ", sts.MedianFloat64(data))
+	case "all":
+		fmt.Println("Soma: ", sts.SomaFloat64(data))
+		fmt.Println("Média: ", sts.AvgFloat64(data))
+		fmt.Println("Min: ", sts.MinFloat64(data))
+		fmt.Println("Max: ", sts.MaxFloat64(data))
+		fmt.Println("Mediana: ", sts.MedianFloat64(data))
+
 	}
 }
